@@ -1,0 +1,11 @@
+﻿  decrypt.c
+E:\CProjects\Ransomware\Ransomware\decrypt.c(3,10): fatal error C1083: Cannot open include file: 'openssl/aes.h': No such file or directory
+  encrypt.c
+E:\CProjects\Ransomware\Ransomware\encrypt.c(4,10): fatal error C1083: Cannot open include file: 'openssl/aes.h': No such file or directory
+  hash.c
+E:\CProjects\Ransomware\Ransomware\hash.c(3,10): fatal error C1083: Cannot open include file: 'openssl/sha.h': No such file or directory
+  main.c
+E:\CProjects\Ransomware\Ransomware\main.c(82,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  tools.c
+E:\CProjects\Ransomware\Ransomware\tools.c(5,10): fatal error C1083: Cannot open include file: 'openssl/aes.h': No such file or directory
+  Generating Code...
