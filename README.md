@@ -32,13 +32,13 @@
 
 #### 加密前：
 
-![](E:\Notes\WorkNotes\AttackIQ转化\勒索软件模拟\test_1.png)
+![](https://github.com/Hunter-0x07/Ransomware/blob/main/png/test_1.png)
 
 #### 加密后：
 
-![](E:\Notes\WorkNotes\AttackIQ转化\勒索软件模拟\test_2.png)
+![](https://github.com/Hunter-0x07/Ransomware/blob/main/png/test_2.png)
 
-![](E:\Notes\WorkNotes\AttackIQ转化\勒索软件模拟\test_3.png)
+![](https://github.com/Hunter-0x07/Ransomware/blob/main/png/test_3.png)
 
 #### 解密：
 
@@ -46,9 +46,9 @@
 .\Ransomware.exe -mode decrypt -method 3 -path E:\\CProjects\\TestEncrypt\\ -extension *.txt,calc.exe
 ```
 
-![](E:\Notes\WorkNotes\AttackIQ转化\勒索软件模拟\test_4.png)
+![](https://github.com/Hunter-0x07/Ransomware/blob/main/png/test_4.png)
 
-![](E:\Notes\WorkNotes\AttackIQ转化\勒索软件模拟\test_5.png)
+![](https://github.com/Hunter-0x07/Ransomware/blob/main/png/test_5.png)
 
 ## 后续想法
 - 支持更多加密算法，以及改程序bug
