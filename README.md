@@ -42,7 +42,7 @@
 
 #### 解密：
 
-```shell
+```powershell
 .\Ransomware.exe -mode decrypt -method 3 -path E:\\CProjects\\TestEncrypt\\ -extension *.txt,calc.exe
 ```
 
