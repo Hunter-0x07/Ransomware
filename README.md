@@ -52,3 +52,7 @@
 
 ## 后续想法
 - 支持更多加密算法，以及改程序bug
+
+## License & copyright
+
+Licensed under the [MIT License](LICENSE).
