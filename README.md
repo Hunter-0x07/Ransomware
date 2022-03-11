@@ -49,3 +49,6 @@
 ![](E:\Notes\WorkNotes\AttackIQ转化\勒索软件模拟\test_4.png)
 
 ![](E:\Notes\WorkNotes\AttackIQ转化\勒索软件模拟\test_5.png)
+
+## 后续想法
+- 支持更多加密算法，以及改程序bug
